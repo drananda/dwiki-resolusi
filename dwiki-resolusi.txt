@@ -1,0 +1,3 @@
+Reolusi Dwiki
+- Belajar dan menguasai git dan github
+- Membuat web portfolio yang sangat baiik
