@@ -1,4 +1,4 @@
 Reolusi Dwiki
 - Belajar dan menguasai git dan github
-- Membuat web portfolio yang sangat baiik
+- Menguasai framework laravel
 - Melaksanakan PKL dengan sangat baik
